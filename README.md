@@ -1,6 +1,10 @@
-# first
+# First Flutter Web Application
 
-A new Flutter project.
+A beginner based Web Application created on Flutter.
+
+Inspiration behind the design was the Crane App on Flutter Gallery.
+
+Some of the things missing are the image assets as well as several integrated steps.
 
 ## Getting Started
 
