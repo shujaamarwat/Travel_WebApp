@@ -1,6 +1,6 @@
-# First Flutter Web Application
+# Travel Web App Flutter
 
-A beginner based Web Application created on Flutter.
+First Flutter Web Application, it is a beginner based Web Application created on Flutter.
 
 Inspiration behind the design was the Crane App on Flutter Gallery.
 
